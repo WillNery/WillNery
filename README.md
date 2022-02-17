@@ -17,10 +17,15 @@ Currently i'm building my portfolio of data projects to improve my knowledge in 
 ### Skills 🛠️
 
 Programming Language: Python ; C/C++
+
 SQL: MySQL
+
 Data Visualization: Tableau; Matplotlib/Seaborn/Plotly
+
 Machine Learning/Statistics: Sklearn/Scipy; Descriptive statistics; 
+
 Software Engineering: Git
+
 Cloud: AWS/Heroku
 
 ### Contact 📫
