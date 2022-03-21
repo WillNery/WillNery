@@ -16,7 +16,7 @@ Currently i'm building my portfolio of data projects to improve my knowledge in 
 
 ### Skills 🛠️
 
-Programming Language: Python ; C/C++
+Programming Language: Python 
 
 SQL: MySQL
 
