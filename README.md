@@ -8,11 +8,13 @@ Feel confortable to contact me on links at the end of the page.
 
 ### About me 🧑‍💻
 
+Data scientist at Grupo GCB.
+
 Electronic Engineer post graduated in Business Project Management.
 
 🚝 9 years designing and deploying installation projects for monorail systems.
 
-Currently: data scientist at Grupo GCB and building my portfolio of data projects to improve my knowledge in data and become a better data scientist. 
+Currently:  building my portfolio of data projects to improve my knowledge in data and become a better data scientist. 
 
 ### Skills 🛠️
 
