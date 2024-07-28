@@ -8,7 +8,7 @@ Feel confortable to contact me on links at the end of the page.
 
 ### About me 🧑‍💻
 
-Data scientist at Grupo GCB.
+Data scientist.
 
 Electronic Engineer post graduated in Business Project Management.
 
