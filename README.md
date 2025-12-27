@@ -12,7 +12,6 @@ Data scientist.
 
 Electronic Engineer post graduated in Business Project Management.
 
-🚝 9 years designing and deploying installation projects for monorail systems.
 
 Currently:  building my portfolio of data projects to improve my knowledge in data and become a better data scientist. 
 
